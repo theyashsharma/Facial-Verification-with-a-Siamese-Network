@@ -1,0 +1,1 @@
+Input images from webcam will be stored here for verification.

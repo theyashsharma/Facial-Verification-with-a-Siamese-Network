@@ -1,0 +1,1 @@
+Copy some (around 50) images from 'positive' folder.

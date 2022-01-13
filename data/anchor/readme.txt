@@ -1,0 +1,1 @@
+Anchor images will be captured and stored here.
